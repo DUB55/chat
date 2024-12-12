@@ -1,4 +1,4 @@
-const socket = io('https://your-vercel-app-url.vercel.app');
+const socket = io('https://rps-6f8x3l7dq-dub55s-projects.vercel.app');
 let username = '';
 
 document.getElementById('join-chat').addEventListener('click', () => {
